@@ -2,6 +2,7 @@
 
 Projeto de SinglePageApplication, onde a cada atualização de página é lançada uma requisição para a API da CoinGecko, retornando dados de criptomoedas mundiais registradas em tempo real. 
 
+The project uses React Hooks to manage states and the Search bar, and it's styling is all CSS.
 
 ![](https://user-images.githubusercontent.com/26651389/103248959-be5be380-494b-11eb-820a-9e8db5e72240.gif)
 
